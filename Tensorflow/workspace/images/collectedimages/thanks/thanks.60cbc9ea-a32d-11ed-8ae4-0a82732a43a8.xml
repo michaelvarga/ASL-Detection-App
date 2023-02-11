@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanks</folder>
+	<filename>thanks.60cbc9ea-a32d-11ed-8ae4-0a82732a43a8.jpg</filename>
+	<path>/Users/mikevarga/Career/ASL-Detection-App/Tensorflow/workspace/images/collectedimages/thanks/thanks.60cbc9ea-a32d-11ed-8ae4-0a82732a43a8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>550</ymin>
+			<xmax>1276</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>
